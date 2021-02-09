@@ -1,0 +1,11 @@
+.App header {
+  background:linear-gradient(to right, #d4d3dd, #efefbb);
+  color: white;
+  margin: 0;
+  padding: 20px;
+  font-size: 30px;
+}
+.App{
+    height:165vh;
+    background:linear-gradient(to right, #d4d3dd, #efefbb);
+}
